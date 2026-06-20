@@ -31,4 +31,4 @@ https://raw.githubusercontent.com/Nero0421/Nero-ACR-Releases/main/prome-communit
 ## 当前版本
 
 - 职业：蝰蛇 Viper（RotationName「Nero蝰蛇」）
-- 版本：1.0.0.0 ｜ 适配 PromeRotation 1.5.2.2（apiVersion 15）
+- 版本：1.0.0.1 ｜ 适配 PromeRotation 1.5.2.3（apiVersion 15）
