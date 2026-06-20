@@ -1,0 +1,15 @@
+{
+  "author": "Nero",
+  "version": "1.0.0.0",
+  "description": "\u652F\u6301\u65E5\u968F/\u9AD8\u96BE\uFF0C\u5185\u7F6E\u8D77\u624B",
+  "supportedJobs": [
+    {
+      "job": "VPR",
+      "contentScope": "Unspecified"
+    }
+  ],
+  "apiVersion": 15,
+  "referencePromeVersion": "1.5.2.2",
+  "downloadUrl": "https://www",
+  "sha256": "62807c255ad28ebc0f1a440f2550c77244bb4c151f8040968a7b9008a90e22ad"
+}
