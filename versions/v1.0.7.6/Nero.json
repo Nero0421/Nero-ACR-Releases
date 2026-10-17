@@ -1,0 +1,61 @@
+{
+  "author": "Nero",
+  "version": "1.0.7.6",
+  "description": "\u652F\u6301\u9AD8\u96BE/\u65E5\u968F\uFF0C\u6709\u4EFB\u4F55\u610F\u89C1\u8BF7\u8054\u7CFB\u6211",
+  "supportedJobs": [
+    {
+      "job": "VPR",
+      "contentScope": "Unspecified"
+    },
+    {
+      "job": "RPR",
+      "contentScope": "Unspecified"
+    },
+    {
+      "job": "MNK",
+      "contentScope": "Unspecified"
+    },
+    {
+      "job": "SAM",
+      "contentScope": "Unspecified"
+    },
+    {
+      "job": "DRG",
+      "contentScope": "Unspecified"
+    },
+    {
+      "job": "DNC",
+      "contentScope": "Unspecified"
+    },
+    {
+      "job": "RDM",
+      "contentScope": "Unspecified"
+    },
+    {
+      "job": "BLM",
+      "contentScope": "Unspecified"
+    },
+    {
+      "job": "PCT",
+      "contentScope": "Unspecified"
+    },
+    {
+      "job": "SMN",
+      "contentScope": "Unspecified"
+    },
+    {
+      "job": "MCH",
+      "contentScope": "Unspecified"
+    },
+    {
+      "job": "BRD",
+      "contentScope": "Unspecified"
+    }
+  ],
+  "apiVersion": 15,
+  "referencePromeVersion": "1.5.10.4",
+  "downloadUrl": "https://raw.githubusercontent.com/Nero0421/Nero-ACR-Releases/main/prome-community-package/Nero.zip",
+  "sourceRepositoryUrl": "https://github.com/Nero0421/Nero-PR-Rotations",
+  "sponsorUrl": "",
+  "sha256": "ce58824e6794115680eccd981af749b3e48f69b9020299ec67ca8d262fe09cb3"
+}
