@@ -1,0 +1,61 @@
+{
+  "author": "Nero",
+  "version": "1.0.8.1",
+  "description": "支持高难/日随，有任何意见请联系我",
+  "supportedJobs": [
+    {
+      "job": "VPR",
+      "contentScope": "Unspecified"
+    },
+    {
+      "job": "RPR",
+      "contentScope": "Unspecified"
+    },
+    {
+      "job": "MNK",
+      "contentScope": "Unspecified"
+    },
+    {
+      "job": "SAM",
+      "contentScope": "Unspecified"
+    },
+    {
+      "job": "DRG",
+      "contentScope": "Unspecified"
+    },
+    {
+      "job": "DNC",
+      "contentScope": "Unspecified"
+    },
+    {
+      "job": "RDM",
+      "contentScope": "Unspecified"
+    },
+    {
+      "job": "BLM",
+      "contentScope": "Unspecified"
+    },
+    {
+      "job": "PCT",
+      "contentScope": "Unspecified"
+    },
+    {
+      "job": "SMN",
+      "contentScope": "Unspecified"
+    },
+    {
+      "job": "MCH",
+      "contentScope": "Unspecified"
+    },
+    {
+      "job": "BRD",
+      "contentScope": "Unspecified"
+    }
+  ],
+  "apiVersion": 15,
+  "referencePromeVersion": "1.5.10.4",
+  "downloadUrl": "https://raw.githubusercontent.com/Nero0421/Nero-ACR-Releases/main/prome-community-package/Nero.zip",
+  "sourceRepositoryUrl": "https://github.com/Nero0421/Nero-PR-Rotations",
+  "sponsorUrl": "",
+  "sha256": "7f935bf71e8e305dfef81e2d642f8059a1766223cd9f10c4a6acab444037d267"
+}
