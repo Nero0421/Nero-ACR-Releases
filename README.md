@@ -31,7 +31,8 @@ https://raw.githubusercontent.com/Nero0421/Nero-ACR-Releases/main/prome-communit
 ## 当前版本
 
 - 职业：蝰蛇 Viper、钐镰客 Reaper、武僧 Monk、武士 Samurai、龙骑士 Dragoon、舞者 Dancer、赤魔法师 Red Mage、黑魔法师 Black Mage、绘灵法师 Pictomancer、召唤师 Summoner、机工士 Machinist、吟游诗人 Bard，单 `Nero.dll` 十二职业合包。
-- 版本：1.0.8.1，适配 PromeRotation 1.5.10.4+（apiVersion 15）。
+- 版本：1.0.8.2，适配 PromeRotation 1.5.10.4+（apiVersion 15）。
+- 1.0.8.2 武僧新增「红莲对齐120」QT（义结金兰剩余 CD＜30 秒时红莲等待，≥30 秒不管控）；设置主窗、QT 窗口、热键窗口支持独立 0～100% 透明度调整。
 - 1.0.8.1 黑魔修复移动火尾误判导致的空交即刻；新增「移动瞬发」QT，支持关闭移动中的自动 GCD 与移动缺口触发的三连/即刻。
 - 1.0.8.0 机工修复倒数/先开怪起手被废弃（允许外部先手已消耗工具与电量、已耗步骤自愈、起手不再误判为外部起手）；修复超荷后等野火造成整拍空转，GCD 归零可先补野火。
 - 1.0.7.9 画家支持 1–100 全等级段：修复 80 级以下同步副本（如白山堡/巴埃萨长城）整循环不出手，低等级按实际解锁打填充/彩绘/重锤/减色/星空。
