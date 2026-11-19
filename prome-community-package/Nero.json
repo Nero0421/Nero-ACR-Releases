@@ -1,6 +1,6 @@
 {
   "author": "Nero",
-  "version": "1.0.8.6",
+  "version": "1.0.8.7",
   "description": "支持高难/日随，有任何意见请联系我",
   "supportedJobs": [
     {
@@ -57,5 +57,5 @@
   "downloadUrl": "https://raw.githubusercontent.com/Nero0421/Nero-ACR-Releases/main/prome-community-package/Nero.zip",
   "sourceRepositoryUrl": "https://github.com/Nero0421/Nero-PR-Rotations",
   "sponsorUrl": "https://ifdian.net/a/Nero0421",
-  "sha256": "64df5db3fe430dcdcccf9abf70a1bc908ab109334262841bc3ac0caea1b71a79"
+  "sha256": "a7a9c18bcdce8ea0f1726d3d96fa0ee1bc6e852b90005e2e0c65b876eebaf548"
 }
